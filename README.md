@@ -61,15 +61,15 @@ while (attempts < chances) {
 ```
 
 ## 📝 Wymagania (Roadmap.sh)
-* **Wybór poziomu trudności (Easy, Medium, Hard).
+* Wybór poziomu trudności (Easy, Medium, Hard).
 
-* **Losowanie liczby z zakresu 1-100.
+* Losowanie liczby z zakresu 1-100.
 
-* **System podpowiedzi (Greater / Less).
+* System podpowiedzi (Greater / Less).
 
-* **Dynamiczny limit szans.
+* Dynamiczny limit szans.
 
-* **Podsumowanie liczby prób po wygranej.
+* Podsumowanie liczby prób po wygranej.
 
 <div align="center">
 
