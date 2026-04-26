@@ -9,7 +9,7 @@
 <br>
 
 > Prosta gra logiczna typu CLI, w której gracz musi odgadnąć liczbę wybraną przez komputer.
-> Projekt wykonany w ramach ścieżki rozwoju na roadmap.sh:  https://roadmap.sh/projects/number-guessing-game.
+> Projekt wykonany w ramach ścieżki rozwoju na roadmap.sh:  https://roadmap.sh/projects/number-guessing-game
 
 <br>
 
